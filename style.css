@@ -1,0 +1,27 @@
+body{
+    background-image:url("bg1.jpeg");
+        background-size: cover;
+        background-position:center;
+        font-family:monospace;
+        font-size:18px;
+}
+h1{
+    font-size:50px;
+    color:deepskyblue;
+    font-family:monospace;
+}
+#canvas1
+{
+    border-width:15px;
+    border-style:ridge;
+    background-color:honeydew;
+}
+button{
+    background-color:crimson;
+    font-size:20px;
+    border-radius:10px;
+    padding:10px 40px;
+}
+input{
+    margin-right:20px;
+}
